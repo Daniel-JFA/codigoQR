@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 def generar_qr(url):
     # Obtener el timestamp actual (momento de creación)
     timestamp_creacion = datetime.now().timestamp()
-    
+    #test
     # Agregar el timestamp de creación a la URL
     url_con_timestamp = f"{url}?creacion={timestamp_creacion}"
     
