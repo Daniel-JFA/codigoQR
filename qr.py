@@ -45,3 +45,6 @@ generar_qr(url)
 # Simular el escaneo del código QR después de un tiempo
 url_escaneada = "https://forms.gle/VNv8XghTZbiaeDV46?creacion=1697041200.0"  # Ejemplo de URL escaneada
 verificar_caducidad(url_escaneada)
+
+
+##test
